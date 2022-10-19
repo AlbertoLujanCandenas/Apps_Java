@@ -1,0 +1,17 @@
+#btnPpal{
+    width: 70px;
+    height: 70px;
+    position: fixed;
+    bottom: 10px;
+}
+#btnCategoria{
+    width: 40px;
+    height: 40px;
+}
+.modal-body input, .modal-body select{
+    border-color: palevioletred;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+}
